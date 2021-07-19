@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My name is James and i am learning to be a full stack engineer
 Use the left arrow to go back!
